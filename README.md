@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to my GitHub Profile!  
 
 I'm Hafidh 🎉  
-A passionate **Im A Student** who loves exploring and learning new technologies.  
+ **Im A Student** who loves exploring and learning new technologies.  
 
 ### 🌟 About Me:  
 - 🎓 Currently learning **Programming Language**.  
