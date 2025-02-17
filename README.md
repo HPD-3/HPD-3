@@ -5,13 +5,12 @@ I'm Hafidh 🎉
 
 ### 🌟 About Me:  
 - 🎓 Currently learning **Programming Language**.  
-- 💻 Working on **Dicoding Camp**.  
 - 🌱 Always open to collaborating on open-source projects.  
 - 📚 I enjoy solving problems and building creative solutions.  
 
 ### 💡 Skills and Tools:  
-- **Languages**: JavaScript  
-- **Tools**: Vs Code 
+- **Languages**: JavaScript, PHP  
+- **Tools**: Vs Code, Ralavel 
 
 ### 📫 How to Reach Me:  
 - 💌 Email: hapidh333@gmail.com
